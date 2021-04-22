@@ -1,6 +1,6 @@
 # react-clock
 An implementation of a clock component updating the time every second. <br>
-You can check this app by visitind [DEMO LINK](http://annaharshyna.github.io/react-clock)
+You can check this app out by visiting [DEMO LINK](http://annaharshyna.github.io/react-clock)
 
 Notes:
 - a class component was used
